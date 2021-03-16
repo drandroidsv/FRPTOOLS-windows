@@ -20,7 +20,7 @@
 
 **frpandroid** es un framework diseñado para quitar cuentas de android 
 
-**pass es: mastersv**
+## pass es: mastersv
 
 ## Distribuciones compatibles con frpandroid:
 
