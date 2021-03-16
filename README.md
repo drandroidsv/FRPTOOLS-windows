@@ -18,8 +18,9 @@
 <a href="https://twitter.com/MASTERSV19"><img title="Twitter" src="https://img.shields.io/badge/CHAT-TWITTER-blue?style=for-the-badge&logo=twitter"></a>
 </p>
 
-**frpandroid** es un framework diseñado para encriptar tus script python, bash, etc
+**frpandroid** es un framework diseñado para quitar cuentas de android 
 
+**pass es: mastersv**
 
 ## Distribuciones compatibles con frpandroid:
 
