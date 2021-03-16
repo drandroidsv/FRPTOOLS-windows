@@ -1,5 +1,5 @@
 <p align="center">
-<img src="http://imgfz.com/i/nWUJRCz.png" title="FRPandroid">
+<img src="http://imgfz.com/i/sk7py4M.jpeg" title="FRPandroid">
 </p>
 
 <p align="center">
