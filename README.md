@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<a href=""><img title="System" src="https://img.shields.io/badge/Supported%20OS-Windows-orange?style=for-the-badge&logo=linux"></a>
+<a href=""><img title="System" src="https://img.shields.io/badge/Supported%20OS-Windows-orange?style=for-the-badge&logo=windows"></a>
 <a href="https://www.paypal.com/paypalme/drandroidsv"><img title="Paypal" src="https://img.shields.io/badge/Donate-PayPal-green.svg?style=for-the-badge&logo=paypal"></a>
 </p>
 
